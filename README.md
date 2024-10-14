@@ -3,7 +3,8 @@ This repository contains an archive of tasks and tesults of the [Lifelog Search 
 
 | Year 	| Location   								|  Participating Teams 	| Top Scorer       											|
 |------	|-------------------------------------------|----------------------	|-----------------------------------------------------------|
-| 2024  		| Phuket, Thailand  				|  TBD 					| TBD 														|
+| 2025  		| Chicago, USA						|  TBD					| TBD														|
+| [2024](2024)	| Phuket, Thailand  				|  21 					| [lifeXplore](https://doi.org/10.1145/3643489.3661123) 	|
 | [2023](2023)  | Thessaloniki, Greece (hybrid)		|  14 					| [lifeXplore](https://doi.org/10.1145/3592573.3593105) 	|
 | [2022](2022) 	| Newark, NJ, USA (hybrid) 			|  9  					| [MySceal](https://doi.org/10.1145/3512729.3533012)  		|
 | [2021](2021) 	| Taipei, Taiwan (virtual) 			|  17 					| [MySceal](https://doi.org/10.1145/3463948.3469064)   		|
